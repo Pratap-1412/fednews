@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        
+        {
+            "source": {
+                "id": null,
+                "name": "WCVB Boston"
+            },
+            "author": null,
+            "title": "Dozens of migrants arrive on Martha's Vineyard via charter flights - WCVB Boston",
+            "description": "\"My understanding is there was no advance communication or notice that this plane and these people were arriving,\" a Massachusetts state rep said.",
+            "url": "https://www.wcvb.com/article/migrants-arrive-marthas-vineyard-massachusetts-charter-flights-florida/41220505",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mv-times-migrants-arrive-on-martha-s-vineyard-03-1663206727.jpeg?crop=1.00xw:0.752xh;0,0.122xh&resize=1200:*",
+            "publishedAt": "2022-09-15T09:42:00Z",
+            "content": "TISBURY, Mass. —A Massachusetts state senator said Wednesday that dozens of migrants arrived on Martha's Vineyard Wednesday afternoon via charter flights.\r\nJulian Cyr, the state representative servin… [+3507 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amy Simonson, Ray Sanchez",
+            "title": "Prosecutors request new trial for 'Serial' subject Adnan Syed - CNN",
+            "description": "Baltimore prosecutors filed a motion Wednesday asking for a new trial for Adnan Syed, whose case was the subject of the hugely popular first season of the \"Serial\" podcast.",
+            "url": "https://www.cnn.com/2022/09/14/us/adnan-syed-prosecutor-new-trial/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220914130555-adnan-syed-file-2016-restricted.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-15T09:40:00Z",
+            "content": "Baltimore prosecutors filed a motion Wednesday asking for a new trial for Adnan Syed, whose case was the subject of the hugely popular first season of the Serial podcast.\r\nA statement from the state … [+4227 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Annabelle Timsit, Rachel Pannett, Sammy Westfall",
+            "title": "Queen Elizabeth II lies in state at Westminster Hall: Latest updates - The Washington Post",
+            "description": "Thousands queued from Westminster Hall through Blackfriars Bridge, to bid farewell to the British monarch.",
+            "url": "https://www.washingtonpost.com/world/2022/09/15/queen-elizabeth-death-westminster-latest-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RGMKWHRUIYI63IGWIFJJTP7L2U.jpg&w=1440",
+            "publishedAt": "2022-09-15T08:04:00Z",
+            "content": "Return to menuOn a U.K.tour, Charles faces a key question: Can he be the king of hearts? A king-in-waiting for 73 years, Charles is finally embarking on Operation Spring Tide, his inaugural tour of t… [+528 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "'Boardwalk Empire' Star Michael Pitt Taken To Hospital After Outburst In NYC - TMZ",
+            "description": "Actor Michael Pitt was taken into police custody last Friday and carted off to the hospital after a very public outburst in NYC, TMZ has learned.",
+            "url": "https://www.tmz.com/2022/09/15/actor-michael-pitt-boardwalk-empire-outburst-hospital-nyc/",
+            "urlToImage": "https://imagez.tmz.com/image/54/16by9/2022/09/09/54cd903506e34770b55ab27000b14321_xl.jpg",
+            "publishedAt": "2022-09-15T08:00:00Z",
+            "content": "Actor Michael Pitt was taken into police custody last Friday and carted off to the hospital after a very public outburst in NYC, TMZ has learned.\r\nVideo obtained by TMZ shows Pitt strapped to a gurne… [+1205 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Joshua Oliver",
+            "title": "Ethereum 'Merge' concludes in key moment for crypto market - Financial Times",
+            "description": "Second-biggest blockchain upgrades to more energy-efficient processing system",
+            "url": "https://www.ft.com/content/4d3c85ee-c812-47b2-a973-acaf1c141a50",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe41a3474-d026-4db7-bf83-793ca7fea338.png?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-09-15T07:40:35Z",
+            "content": "Ethereum has completed a long-awaited upgrade to its system in a move expected to slash its energy costs and intended to prepare the ground for more use of crypto technology in mainstream finance.\r\nT… [+3900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Al Root",
+            "title": "Ford's Brand-New Mustang Is a Good, Old-Fashioned Muscle Car - Barron's",
+            "description": "The 2022 Mustang is classic—and still as cool as it always was. The sports car runs on gasoline, but isn't lacking in high-tech features.",
+            "url": "https://www.barrons.com/articles/ford-2022-mustang-detroit-auto-show-51663191488",
+            "urlToImage": "https://images.barrons.com/im-623062/social",
+            "publishedAt": "2022-09-15T07:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "iPhone 14 Pro Max teardown gives us a first look at the phone’s internal components - 9to5Mac",
+            "description": "Apple this week announced the iPhone 14 and iPhone 14 Pro lineups. Pre-orders began last Friday and the first orders are set to arrive to customers on September 16. However, some lucky people have already gotten their hands on the iPhone 14 models. Thanks to …",
+            "url": "https://9to5mac.com/2022/09/14/iphone-14-pro-max-teardown-video/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/iPhone-14-Pro-Max-teardown-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-09-15T06:48:00Z",
+            "content": "Apple this week announced the iPhone 14 and iPhone 14 Pro lineups. Pre-orders began last Friday and the first orders are set to arrive to customers on September 16. However, some lucky people have al… [+2706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Shell CEO Ben van Beurden to step down, renewables boss Wael Sawan to take the helm - CNBC",
+            "description": "Oil giant Shell on Thursday announced that CEO Ben van Beurden will step down at the end of the year after nearly a decade at the helm.",
+            "url": "https://www.cnbc.com/2022/09/15/shell-ceo-ben-van-beurden-to-be-replaced-by-wael-sawan-next-year.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107062252-1652786528978-gettyimages-1239026022-AFP_324Q28T.jpeg?v=1663222810&w=1920&h=1080",
+            "publishedAt": "2022-09-15T06:20:10Z",
+            "content": "Oil giant Shell on Thursday announced that CEO Ben van Beurden will step down at the end of the year after nearly a decade at the helm.\r\nWael Sawan, currently Shell's director of integrated gas, rene… [+2188 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "Russian forces strike dam, flooding parts of Kryvyi Rih city; President Zelenskyy involved in car accident - CNBC",
+            "description": "Russian forces have targeted a dam on the Inhulets River near Kryvyi Rih — President Volodymyr Zelenskyy's home city — causing flooding and evacuations.",
+            "url": "https://www.cnbc.com/2022/09/15/russia-ukraine-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107118956-1663219538740-gettyimages-1243226948-AA_14092022_865595.jpeg?v=1663220094&w=1920&h=1080",
+            "publishedAt": "2022-09-15T06:17:00Z",
+            "content": "Russians have shelled a dam on the Inhulets River near Kryvyi Rih President Zelenskyy's home city leading to flooding in parts of the city and residents being evacuated.\r\nOleksandr Vilkul, the head o… [+1479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Poppy Noor",
+            "title": "Near-total abortion ban with narrow exceptions takes effect in Indiana - The Guardian US",
+            "description": "Law effectively wipes out abortion access for 1.5m people in the state, which was a safe haven for those seeking the procedure",
+            "url": "https://amp.theguardian.com/us-news/2022/sep/15/indiana-abortion-ban-trigger-law",
+            "urlToImage": null,
+            "publishedAt": "2022-09-15T06:01:00Z",
+            "content": "IndianaLaw effectively wipes out abortion access for 1.5m people in the state, which was a safe haven for those seeking the procedure\r\nA sweeping abortion ban went into effect in Indiana on Thursday,… [+3265 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon and Jorge L. Ortiz, USA TODAY",
+            "title": "Russians admit defeat in Kharkiv; Zelenskyy visits Izium after troops flee shattered city: Ukraine updates - USA TODAY",
+            "description": "Kremlin officials and state media propagandists are extensively discussing the reasons for the Russian defeat in Kharkiv. Latest updates.",
+            "url": "https://www.usatoday.com/story/news/world/2022/09/14/ukraine-russia-war-live-updates/10375099002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/14/USAT/d22a0483-60bd-4069-a248-20ec48e7aab0-AFP_32JD2GX.jpg?auto=webp&crop=2047,1152,x0,y104&format=pjpg&width=1200",
+            "publishedAt": "2022-09-15T05:15:35Z",
+            "content": "A phalanx of military experts sweeping across Russian TV are admitting the Kremlin's defeat in Kharkiv region as Ukrainian forces on Wednesday pressed a counteroffensive that has driven occupying tro… [+6277 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gawon Bae and Kathleen Magramo, CNN",
+            "title": "Woman arrested in South Korea in connection with alleged murder of two children found in suitcases in New Zealand - CNN",
+            "description": "A 42-year-old woman believed to be the mother of two children whose remains were found by a family in suitcases bought from storage facility auction in New Zealand has been arrested on alleged murder in South Korea.",
+            "url": "https://www.cnn.com/2022/09/14/asia/new-zealand-children-suitcase-korea-woman-arrested-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220828215728-02-new-zealand-suitcase-remains-identified-super-tease.jpg",
+            "publishedAt": "2022-09-15T04:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Pamela Brown, Evan Perez, Jeremy Herb, Kristen Holmes",
+            "title": "Exclusive: Mark Meadows complied with DOJ subpoena in January 6 probe - CNN",
+            "description": "Former White House chief of staff Mark Meadows has complied with a subpoena from the Justice Department's investigation into events surrounding January 6, 2021, sources familiar with the matter tell CNN, making him the highest-ranking Trump official known to …",
+            "url": "https://www.cnn.com/2022/09/14/politics/mark-meadows-subpoena-justice-department-january-6/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220413122602-mark-meadows-file-2020.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-15T04:06:00Z",
+            "content": "Former White House chief of staff Mark Meadows has complied with a subpoena from the Justice Departments investigation into events surrounding January 6, 2021, sources familiar with the matter tell C… [+3841 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Etan Vlessing",
+            "title": "TIFF: ‘Succession’ Star Brian Cox Blasts Method Acting as “American Sh**” - Hollywood Reporter",
+            "description": "Brian Cox is so over Logan Roy. Or at least, he left Succession’s reigning media-empire patriarch behind on the set of HBO’s Emmy-winning TV drama as the gruff Scottish performer blasted Method acting during a post-screening Q&A at the Toronto Film Festival f…",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/tiff-succession-brian-cox-blasts-method-acting-1235220997/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/09/Prisoners-Daughter-STILL-2-Courtesy-of-Prisoners-Daughter-LLC.jpg?w=1024",
+            "publishedAt": "2022-09-15T02:37:37Z",
+            "content": "Brian Cox is so over Logan Roy.\r\nOr at least, he left Succession’s reigning media-empire patriarch behind on the set of HBO’s Emmy-winning TV drama as the gruff Scottish performer blasted Method acti… [+4171 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Veronica Stracqualursi",
+            "title": "Ohio's six-week abortion ban temporarily blocked - CNN",
+            "description": "An Ohio judge on Wednesday temporarily blocked a state law prohibiting abortions as early as six weeks into a pregnancy, restoring abortion access in the state for now.",
+            "url": "https://www.cnn.com/2022/09/14/politics/ohio-six-week-abortion-ban-blocked/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220914184341-abortion-rights-protester-ohio-file-062422.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-15T01:59:00Z",
+            "content": "An Ohio judge on Wednesday temporarily blocked a state law prohibiting abortions as early as six weeks into a pregnancy, restoring abortion access in the state for now.\r\nSenate Bill 23 was passed in … [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Tom Tapp",
+            "title": "LeBron James, Chris Paul Call Out NBA Over Robert Sarver Decision: “Our League Definitely Got This Wrong” - Deadline",
+            "description": "“Our league definitely got this wrong,” wrote LeBron James today just hours after NBA Commissioner Adam Silver went before the media to try and contain the fallout over what many consider too-mild sanctions on Phoenix Suns owner Robert Sarver for his reported…",
+            "url": "https://deadline.com/2022/09/lebron-james-chris-paul-call-out-nba-over-robert-sarver-decision-our-league-definitely-got-this-wrong-1235119426/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-14-at-6.31.41-PM.png?w=1024",
+            "publishedAt": "2022-09-15T01:35:00Z",
+            "content": "“Our league definitely got this wrong,” wrote LeBron James today just hours after NBA Commissioner Adam Silverwent before the media to try and contain the fallout over what many consider too-mild san… [+6405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "hoopsrumors.com"
+            },
+            "author": null,
+            "title": "Donovan Mitchell Was Expecting To Be Traded To Knicks - hoopsrumors.com",
+            "description": "Although he was hoping to go home, he's excited about the talent surrounding him in Cleveland.",
+            "url": "https://www.hoopsrumors.com/2022/09/donovan-mitchell-was-expecting-to-be-traded-to-knicks.html",
+            "urlToImage": "https://cdn.hoopsrumors.com/files/2022/09/donovan-mitchell-cavaliers-900x600.jpg",
+            "publishedAt": "2022-09-15T01:31:00Z",
+            "content": "The Cavaliers welcomed Donovan Mitchell to Cleveland today for his introductory press conference, but there was no way to escape questions about the Knicks, writes Joe Vardon of The Athletic.\r\nThe Ca… [+2210 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL Week 2 injuries: Keenan Allen ruled out for Chargers vs. Chiefs; D'Andre Swift dealing with ankle injury - CBS Sports",
+            "description": "Breaking down the NFL midweek injury reports for Week 2 of the 2022 NFL season",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-2-injuries-keenan-allen-ruled-out-for-chargers-vs-chiefs-dandre-swift-dealing-with-ankle-injury/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/09/29/3bdef065-32ab-4ffb-a8f3-af8f9b1426da/thumbnail/1200x675/75089a3de8e2a42a71a328ebe739cae2/keenan-allen.jpg",
+            "publishedAt": "2022-09-15T01:08:00Z",
+            "content": "The 2022 NFL season is officially underway, and the next few months are about to feel like a fever dream. It seems as though Week 1 of the regular season just ended, but Week 2 officially begins tomo… [+10546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Daily multivitamin intake may slow cognitive decline in older adults, study shows - CNN",
+            "description": "A new study from the Alzheimer's Association shows that daily consumption of multivitamins may slow the decline of cognitive aging by 60% in older adults. CN...",
+            "url": "https://www.youtube.com/watch?v=XDxjS-9fC-Y",
+            "urlToImage": "https://i.ytimg.com/vi/XDxjS-9fC-Y/hqdefault.jpg",
+            "publishedAt": "2022-09-15T00:18:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Patagonia Founder Gives Company Away, Directs Profits To Fight Climate Change - NBC News",
+            "description": "Patagonia founder Yvon Chouinard has relinquished his ownership in the business and directed its profits to fight climate change. In a news release Chouinard...",
+            "url": "https://www.youtube.com/watch?v=GlzdVVthPUY",
+            "urlToImage": "https://i.ytimg.com/vi/GlzdVVthPUY/maxresdefault.jpg",
+            "publishedAt": "2022-09-15T00:00:04Z",
+            "content": null
+        }
+    ]
+}
